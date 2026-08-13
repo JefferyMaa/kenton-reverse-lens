@@ -161,3 +161,8 @@ Kenton Ma 是一名独立开发者，持续用 AI 构建真实能用的内容与
 ## License
 
 本项目采用 [MIT License](LICENSE)。
+
+## 联系 Kenton
+
+- 个人博客：[Kenton Blog](https://kenton.crewup.cn/)
+- 公开邮箱：[dilipkhandale351@gmail.com](mailto:dilipkhandale351@gmail.com)
