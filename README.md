@@ -2,6 +2,8 @@
 
 把“别人怎么做”翻译成“自己的品牌该怎么长”的 Agent Skill。
 
+> 用着卡住了，可以找我答疑：99 元一个问题，24 小时内回。微信：JT_M0726
+
 [crewup.cn](http://crewup.cn) · [Quickstart](docs/quickstart.md) · [故障排查](docs/troubleshooting.md) · [Issues](https://github.com/JefferyMaa/kenton-reverse-lens/issues) · [Discussions](https://github.com/JefferyMaa/kenton-reverse-lens/discussions) · [交流与反馈](#交流与反馈)
 
 `kenton-reverse-lens` 面向博主、创作者或行业人物的单条到完整 corpus 分析。它先还原对方真实的想法、做法和方向，再剥掉资本、人力、规模和时代红利等外壳，用“一个人 + AI”的尺度反推品牌动作、能力结构和决策模型。
